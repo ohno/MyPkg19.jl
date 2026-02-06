@@ -1,0 +1,10 @@
+name = "MyPkg19"
+uuid = "05442cbf-d069-41f5-9ffb-1a0a60e206bd"
+authors = ["Shuhei Ohno"]
+version = "0.0.1"
+
+[deps]
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+
+[compat]
+julia = "1.11"
